@@ -1,0 +1,44 @@
+{
+    "entries": [
+        {
+            "logo": "{{webRoot}}/assets/images/html.png",
+            "skill": "HTML",
+            "percent": "95"
+        },
+		{
+            "logo": "{{webRoot}}/assets/images/figma.svg",
+            "skill": "Figma",
+            "percent": "65"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/css.png",
+            "skill": "CSS",
+            "percent": "98"
+        },
+		{
+			"logo": "{{webRoot}}/assets/images/xd.svg",
+			"skill": "XD",
+			"percent": "75"
+		},
+		{
+            "logo": "{{webRoot}}/assets/images/js.svg",
+            "skill": "JS",
+            "percent": "60"
+        },
+		{
+			"logo": "{{webRoot}}/assets/images/illustrator.svg",
+			"skill": "Illustrator",
+			"percent": "80"
+		},
+		{
+			"logo": "{{webRoot}}/assets/images/php.svg",
+			"skill": "PHP",
+			"percent": "45"
+		},
+        {
+            "logo": "{{webRoot}}/assets/images/photoshop.svg",
+            "skill": "Photoshop",
+            "percent": "60"
+        }
+    ]
+}
