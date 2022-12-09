@@ -2,6 +2,6 @@
     RewriteEngine on
     Options +FollowSymlinks -MultiViews
 
-    RewriteRule ^$ ./src/html/index.html [R,L]
+    RewriteRule ^$ /dst/index.html [R,L]
 
 </IfModule>
