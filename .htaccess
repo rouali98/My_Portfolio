@@ -2,7 +2,7 @@ RewriteEngine on
 Options +FollowSymlinks -MultiViews
 
 # to redirect rouali.live to rouali.live/index.html
-RewriteRule ^$ /index.html [R,L]
+RewriteRule ^$ src/html/index.html [R,L]
 
 # to redirect src/html to index.php?url=dir1/dir2
 RewriteCond %{REQUEST_FILENAME} !-d
